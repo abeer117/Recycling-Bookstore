@@ -140,5 +140,4 @@ if(isset($_POST['proceedCart'])){
             echo 'false';
         }
     }
-
 }
