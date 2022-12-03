@@ -46,7 +46,7 @@
                         No products were added to the wishlist.
                     </div>
 
-                    <?php } ?>
+                    <?php }  ?>
 
 
                     <?php //} ?>
